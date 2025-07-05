@@ -2,7 +2,7 @@
 
 This Tableau project analyzes booking and pricing trends on **StayCatin.com**, a platform for booking short-term vacation properties (similar to Airbnb).
 
-As a **Business Analyst**, my role was to generate actionable insights for management using data related to properties, reviews, pricing, and earnings.
+As a **Analyst**, my role was to generate actionable insights for management using data related to properties, reviews, pricing, and earnings.
 
 ---
 
